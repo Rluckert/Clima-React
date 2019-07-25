@@ -12,7 +12,7 @@ import { Grid, Col, Row } from 'react-flexbox-grid';
 import './App.css';
 const cities = [
   'Buenos aires, ar',
-  'Bogotá, co',
+  'Barranquilla, co',
   'Ciudad de México, mx',
   'Madrid, es',
   'Lima, pe',
@@ -36,7 +36,7 @@ class App extends Component {
           <AppBar position='sticky' color="secondary">
             <Toolbar>
               <Typography variant='title' color='inherit'>
-                Weather App
+                App clima view
               </Typography>
             </Toolbar>
           </AppBar>
